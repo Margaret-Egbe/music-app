@@ -216,6 +216,15 @@ i.fa-volume-up{
         width: 100%;
     }
 
+.track-name {
+    font-size: 1.5rem;
+}
+
+.track-artist {
+    margin-top: 5px;
+    font-size: 1rem;
+}
+
     .track-art {
         height: 150px;
         width: 150px;
